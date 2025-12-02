@@ -2,8 +2,9 @@
 tags:
   - design-pattern
   - informatique
+  - patron-conception
 ---
-> [!bookmark|center] [[Science informatique]]
+> [!bookmark|center] [[Conceptions Objets]]
 
 > [!info] Sujet lié
 > - [[Factory]]

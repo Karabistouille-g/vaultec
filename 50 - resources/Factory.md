@@ -1,10 +1,10 @@
 ---
 tags:
   - informatique
-  - patron-creation
   - conception-objet
+  - patron-conception
 ---
-> [!bookmark|center] [[Science informatique]]
+> [!bookmark|center] [[Conceptions Objets]]
 
 > [!info] Sujet lié
 > - [[Singleton]]

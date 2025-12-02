@@ -2,9 +2,9 @@
 tags:
   - informatique
   - conception-objet
-  - patron-creation
+  - patron-conception
 ---
-> [!bookmark|center] [[Science informatique]]
+> [!bookmark|center] [[Conceptions Objets]]
 
 > [!info] Sujet lié
 > - Note 1

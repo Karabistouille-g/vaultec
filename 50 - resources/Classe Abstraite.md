@@ -3,7 +3,7 @@ tags:
   - informatique
   - conception-objet
 ---
-> [!bookmark|center] [[Science informatique]]
+> [!bookmark|center] [[Conceptions Objets]]
 
 > [!info] Sujet lié
 > - [[Classe Interface]]

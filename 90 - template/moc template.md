@@ -1,3 +1,4 @@
+> [!bookmark|center] [[MOC]]
 # Concept clé
 
 > [!summary]

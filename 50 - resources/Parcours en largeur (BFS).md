@@ -3,7 +3,7 @@ tags:
   - algorithme
   - informatique
 ---
-> [!bookmark|center] [[Science informatique]]
+> [!bookmark|center] [[Algorithmes]]
 
 > [!info] Sujet lié
 > - [[Parcours en profondeur (DFS)]]
