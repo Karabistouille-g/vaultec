@@ -1,0 +1,11 @@
+> [!bookmark|center] [[Science informatique]]
+# Concept clé
+> [!summary] 
+> - [[Couche OSI]]
+> - [[Couche OSI 1 - Physique]]
+> - [[Couche OSI 2 - Liaison]]
+> - [[Couche OSI 3 - Reseaux]]
+> - [[Couche OSI 4 - Transport]]
+> - [[Couche OSI 5 - Session]]
+> - [[Couche OSI 6 - Presentation]]
+> - [[Couche OSI 7 - Application]]

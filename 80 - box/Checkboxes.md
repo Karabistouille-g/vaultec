@@ -1,0 +1,16 @@
+- [ ] todo
+- [x]  done
+- [-] cancelled
+- [/] in progress
+- [i] info
+- [!] important
+- [b] bookmark
+- [*] star
+- [H] heart
+- [e] energy
+- [<] calendar
+- [l] location
+- [T] time 
+- [I] idea
+- [s] sparkles
+- [w] waves
